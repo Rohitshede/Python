@@ -12,15 +12,14 @@ Cross-platform compatibility.
 
 # Useful Resources:
 Official Python Website:
-
 www.Python.org
 
 Python Documentation:
-Python Documentation
-
+[www.Python Documentation
+](https://docs.python.org/3/)
 Learn Python:
-Codecademy - Learn Python
-w3schools - Python Tutorial
+Codecademy - [Learn Python](https://www.codecademy.com/learn/learn-python)
+w3schools - [Python Tutorial](https://www.w3schools.com/python/)
 Frameworks and Libraries:
 
 Django (Web Framework)
