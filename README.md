@@ -12,13 +12,12 @@ Cross-platform compatibility.
 
 # Useful Resources:
 Official Python Website:
-
 Python.org
+
 Python Documentation:
-
 Python Documentation
-Learn Python:
 
+Learn Python:
 Codecademy - Learn Python
 w3schools - Python Tutorial
 Frameworks and Libraries:
@@ -27,16 +26,16 @@ Django (Web Framework)
 Flask (Web Microframework)
 NumPy (Numerical Computing)
 Pandas (Data Manipulation and Analysis)
-Tools for Package Management:
 
+Tools for Package Management:
 pip - Package Installer for Python
 Virtualenv - Virtual Environments for Python
-Community and Forums:
 
+Community and Forums:
 Python Reddit Community
 Stack Overflow - Python
-Books:
 
+Books:
 "Python Crash Course" by Eric Matthes
 "Fluent Python" by Luciano Ramalho
 "Automate the Boring Stuff with Python" by Al Sweigart
