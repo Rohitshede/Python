@@ -13,7 +13,7 @@ Cross-platform compatibility.
 # Useful Resources:
 Official Python Website:
 
-Python.org
+www.Python.org
 
 Python Documentation:
 Python Documentation
